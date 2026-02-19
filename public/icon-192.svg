@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192" role="img" aria-label="Stream Flow icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#151515" />
+      <stop offset="1" stop-color="#2b1a1a" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f06a6a" />
+      <stop offset="1" stop-color="#d94a4a" />
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="42" fill="url(#bg)" />
+  <circle cx="96" cy="96" r="50" fill="#1f1f1f" stroke="url(#accent)" stroke-width="8" />
+  <polygon points="84,73 124,96 84,119" fill="#f8f8f8" />
+</svg>

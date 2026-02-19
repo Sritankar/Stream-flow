@@ -1,0 +1,3 @@
+# Stream Flow crawler policy
+User-agent: *
+Allow: /
