@@ -30,6 +30,10 @@ Stream Flow provides a short-form video feed experience with category filtering,
 
 ## Getting Started
 
+### Deployment
+
+Live app: https://stream-eight-phi.vercel.app/
+
 ### Prerequisites
 
 - Node.js 18+
